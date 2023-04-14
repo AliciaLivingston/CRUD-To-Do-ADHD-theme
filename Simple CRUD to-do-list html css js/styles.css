@@ -1,0 +1,47 @@
+.title {
+   
+    text-align: center;
+    margin-top: 25px;
+
+}
+.title h1 {
+    font-size: 4rem;
+    margin-bottom: 15px;
+    
+}
+.title p {
+    font-size: 1.5rem;
+    margin-bottom: 25px;
+}
+
+.form{
+    margin: auto;
+    max-width: 80%;
+   text-align: center;
+}
+input[type='submit'], button, [aria-label]{
+    cursor: pointer;
+}
+#edit-box{
+    display: none;
+    max-width: 80%;
+    margin: auto;
+    margin-top:5px;
+
+}
+
+td{
+    background-color: aliceblue;
+    padding-right:10px;
+    text-align: left;
+}
+.to-do{
+    background: transparent !important;
+    text-align: left;
+}
+
+counter {
+    background-color: aliceblue;
+    padding-right:10px;
+
+}
